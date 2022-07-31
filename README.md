@@ -10,6 +10,8 @@ The language itself is not bad, is actually pretty interesting. The thing that b
 
 > I know that this code is not well written, but I'm happy for the results.
 
+_Maybe it will become http frogs or something else if I don't find enough images :/_
+
 ## Running the project locally:
 
 - Clone the repo:
