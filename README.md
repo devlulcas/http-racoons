@@ -47,4 +47,4 @@ go build cmd/http-racoons/main.go
 
 `/images/403`
 
-![forbidden](https://raw.githubusercontent.com/devlulcas/http-raccons/main/static/403.png)
+![forbidden](https://raw.githubusercontent.com/devlulcas/http-racoons/main/static/403.png)
